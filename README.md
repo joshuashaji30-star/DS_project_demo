@@ -21,4 +21,7 @@ python -m pip install -r requirements.txt
 '''bash
 '''
 
-## MOdel preference
+## MOdel performance
+'''
+Logistic Regression Accuracy: 80%
+'''
